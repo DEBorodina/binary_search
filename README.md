@@ -1,6 +1,4 @@
-# binary_search
-
-Algorithms:
+# Algorithms: 🖥️
 - Binary search
 - Upper bound
 - Lower bound
